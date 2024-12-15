@@ -62,12 +62,7 @@ Welcome to **Academix**, your ultimate companion for academic success! Designed 
 Here’s a glimpse of what **Academix** looks like:
 
 
-![Screenshot (1010)](https://github.com/user-attachments/assets/cf502da4-3d00-41ac-90c5-c867670c2887)
-![Screenshot (1011)](https://github.com/user-attachments/assets/e2821bdd-3573-4883-a372-b063a3d70ef8)
-![Screenshot (1012)](https://github.com/user-attachments/assets/51e2e427-8be1-4398-a6c9-5922eb10bf44)
-![Screenshot (1013)](https://github.com/user-attachments/assets/4f07bc71-0c4f-463b-815a-4d5339ed0d1c)
-![Screenshot (1020)](https://github.com/user-attachments/assets/edeabcad-22d9-42dc-a955-c84237333cdd)![Screenshot (1021)](https://github.com/user-attachments/assets/6ca011cf-1d07-4c08-9182-3ab6871357cd)
-
+![Academix](https://github.com/user-attachments/assets/0bdec05c-bdce-47ae-86ac-1df81fd2a367)
 
 ## 📦 Libraries and Dependencies
 
