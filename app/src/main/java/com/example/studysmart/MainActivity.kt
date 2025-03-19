@@ -22,7 +22,8 @@ import com.ramcosta.composedestinations.navigation.dependency
 import dagger.hilt.android.AndroidEntryPoint
 
 @AndroidEntryPoint
-class MainActivity : ComponentActivity() {
+class
+MainActivity : ComponentActivity() {
 
     private var isBound by mutableStateOf(false)
     private lateinit var timerService: StudySessionTimerService
